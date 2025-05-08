@@ -2,7 +2,7 @@
 I know this is a very simple query, but I’m excited to keep learning and growing in this field.  
 **Feedback and suggestions are always welcome! **
 
-### Starbucks Store Distribution – SQL Portfolio Project
+### Starbucks Store Distribution – Data Analysis Project
 
 ### Objective  
 Analyze Starbucks store locations worldwide using SQL to explore store count by country, ownership type, timezone distribution, and top cities.
